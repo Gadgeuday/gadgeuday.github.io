@@ -7,7 +7,7 @@ Hello this is my web page
     <meta charset="UTF-8">
     <meta name="viewport" content=
         "width=device-width, initial-scale=1.0">
-    <title>HTML Project</title>
+    <title> HTML Project </title>
 </head>
  
 <body>
